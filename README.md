@@ -14,9 +14,9 @@ The anomalies are further categorized into incorrect orders, omissions, and abno
 
 
 ## Sample videos
-![sample](https://user-images.githubusercontent.com/66232853/155927175-dfca66f4-9467-462f-a82b-38a82a50a6b7.mp4)
-https://user-images.githubusercontent.com/66232853/155927154-0af12045-1220-45d4-bd82-a4ddf3377f81.mp4
+https://user-images.githubusercontent.com/66232853/155928411-59b97568-cdf7-42a1-83b1-50b3e12e35fd.mp4
 
+https://user-images.githubusercontent.com/66232853/155928382-f1b54385-e6f0-483b-9a74-8c28b76a0e6f.mp4
 
 
 
