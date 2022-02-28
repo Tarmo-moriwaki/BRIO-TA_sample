@@ -14,10 +14,9 @@ The anomalies are further categorized into incorrect orders, omissions, and abno
 
 
 ## Sample videos
-**The standardized assembly process sequence**
+
 https://user-images.githubusercontent.com/66232853/155928411-59b97568-cdf7-42a1-83b1-50b3e12e35fd.mp4
 
-**The 3 types of anomalous assembly processes sequences**
 https://user-images.githubusercontent.com/66232853/155928382-f1b54385-e6f0-483b-9a74-8c28b76a0e6f.mp4
 
 
