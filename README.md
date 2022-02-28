@@ -14,12 +14,11 @@ The anomalies are further categorized into incorrect orders, omissions, and abno
 
 
 ## Sample videos
-**The standardized assembly process sequence**
-**The 3 types of anomalous assembly processes sequences**
+**The standardized assembly process sequence**  
+https://user-images.githubusercontent.com/66232853/155928411-59b97568-cdf7-42a1-83b1-50b3e12e35fd.mp4  
 
-https://user-images.githubusercontent.com/66232853/155928411-59b97568-cdf7-42a1-83b1-50b3e12e35fd.mp4
-
-https://user-images.githubusercontent.com/66232853/155928382-f1b54385-e6f0-483b-9a74-8c28b76a0e6f.mp4
+**The 3 types of anomalous assembly processes sequences**  
+https://user-images.githubusercontent.com/66232853/155928382-f1b54385-e6f0-483b-9a74-8c28b76a0e6f.mp4  
 
 
 
@@ -30,9 +29,7 @@ Without the expressed permission of NEC corporation, any of the following will b
 
 
 ## How to get dataset
-- After read the dataset license and personal information handling, please send data request mail to **XXX@XXX.com**.  
-  - We don't use your personal information (name and mail address) except to contact you.  
-  - If you send request, you are deemed to be agree the lisence and our personal information handling.   
+- We will fill the contents after the paper be published  
 
 
 
