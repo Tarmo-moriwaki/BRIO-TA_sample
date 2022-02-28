@@ -14,10 +14,10 @@ The anomalies are further categorized into incorrect orders, omissions, and abno
 
 
 ## Sample videos
-![sample](https://user-images.githubusercontent.com/66232853/155927154-0af12045-1220-45d4-bd82-a4ddf3377f81.mp4
-)
+![Standardized assembly processes](https://user-images.githubusercontent.com/66232853/155927175-dfca66f4-9467-462f-a82b-38a82a50a6b7.mp4)
+![3 types of anomnalous assembly processes](https://user-images.githubusercontent.com/66232853/155927154-0af12045-1220-45d4-bd82-a4ddf3377f81.mp4)
 
-![sample](https://user-images.githubusercontent.com/66232853/155927175-dfca66f4-9467-462f-a82b-38a82a50a6b7.mp4)
+
 
 
 
