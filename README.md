@@ -34,7 +34,7 @@ Without the expressed permission of NEC corporation, any of the following will b
 
 
 ## How to get dataset
-- Please read the license "Terms of Use_BRIO-TA" and send e-mail to the written address.
+- Please read the license "Terms of Use_BRIO-TA.pdf" and send e-mail to the written address.
 
 
 
